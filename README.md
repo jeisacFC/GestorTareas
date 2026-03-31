@@ -1,6 +1,6 @@
 # GestorTareas — Documentación de Aprendizaje
 
-Proyecto web desarrollado con **Laravel Full-Stack + Docker**.
+Cree este proyecto web desarrollado con **Laravel Full-Stack + Docker**, con el fin de repasar y estudiar nuevas tecnologias.
 Este archivo es un registro de todo lo aprendido durante la configuración del proyecto,
 pensado para repasar conceptos sin necesidad de buscarlos de nuevo.
 
